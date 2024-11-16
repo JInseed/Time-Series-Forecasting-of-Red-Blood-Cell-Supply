@@ -1,4 +1,4 @@
-# Time-Series-Forecasting-of-Red-Blood-Cell-Supply
+# 시계열 분석을 활용한 적혈구제제 수급 예측
 <br>
 
 ## 진행기간
