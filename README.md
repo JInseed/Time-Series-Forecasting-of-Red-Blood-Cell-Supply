@@ -16,7 +16,7 @@
 <br>
 
 ### 역할
-> **자료조사, EDA, Data Processing, Modeling, 논문 작성**
+> **자료조사, EDA, Data Preprocessing, Modeling, 논문 작성**
 <br>
 
 ## 분석 주제
@@ -25,7 +25,7 @@
 
 ## 분석 요약
 
-1. Data Processing
+1. Data Preprocessing
 2. EDA(ACF, PACF, lag plot 등)
 3. Modeling(잔차 확인, 모델 적합 후 ACF, PACF 확인, 백색잡음 검정)
     1. 분해법
